@@ -1,0 +1,337 @@
+fileFormatVersion: 2
+guid: f0cb667c0c5053f40a1a3a869d996410
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: SkeletonWaterHit_11
+    21300002: SkeletonWaterHit_12
+    21300004: SkeletonWaterHit_13
+    21300006: SkeletonWaterHit_14
+    21300008: SkeletonWaterHit_15
+    21300010: SkeletonWaterHit_16
+    21300012: SkeletonWaterHit_17
+    21300014: SkeletonWaterHit_18
+    21300016: SkeletonWaterHit_19
+    21300018: SkeletonWaterHit_20
+    21300020: SkeletonWaterHit_21
+  externalObjects: {}
+  serializedVersion: 5
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -1
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 0
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 2
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: SkeletonWaterHit_11
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 16
+        width: 22
+        height: 43
+      alignment: 9
+      pivot: {x: 0.27814814, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca44f247d901bc54ebf2fd4a9ebc4a4f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SkeletonWaterHit_12
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 16
+        width: 22
+        height: 43
+      alignment: 9
+      pivot: {x: 0.28143346, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df68696b4e40e9a408b3be6922289240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SkeletonWaterHit_13
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 16
+        width: 22
+        height: 43
+      alignment: 9
+      pivot: {x: 0.2814331, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dbe9ec94351ff95498dfafb2874d985a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SkeletonWaterHit_14
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 16
+        width: 22
+        height: 43
+      alignment: 9
+      pivot: {x: 0.2748101, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0996f9283218b454fa554f76fc36789f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SkeletonWaterHit_15
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 16
+        width: 22
+        height: 43
+      alignment: 9
+      pivot: {x: 0.24831668, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7827f09305769e04faf646dfddb55061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SkeletonWaterHit_16
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 16
+        width: 23
+        height: 43
+      alignment: 9
+      pivot: {x: 0.24658933, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15847ceeda4a45d44847dacd270dd96f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SkeletonWaterHit_17
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 16
+        width: 23
+        height: 43
+      alignment: 9
+      pivot: {x: 0.25292438, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 876ad4f11576eda44adfb20993f34907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SkeletonWaterHit_18
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 16
+        width: 23
+        height: 43
+      alignment: 9
+      pivot: {x: 0.26559514, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e403b6d4bed7294884562b193d11d7e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SkeletonWaterHit_19
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 16
+        width: 22
+        height: 43
+      alignment: 9
+      pivot: {x: 0.2814331, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2059702cc4372174c821b094e7223535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SkeletonWaterHit_20
+      rect:
+        serializedVersion: 2
+        x: 283
+        y: 16
+        width: 22
+        height: 43
+      alignment: 9
+      pivot: {x: 0.2814331, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 217f067047860c54c9e4d605d8fd1931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SkeletonWaterHit_21
+      rect:
+        serializedVersion: 2
+        x: 311
+        y: 16
+        width: 22
+        height: 43
+      alignment: 9
+      pivot: {x: 0.28805542, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8cd255980e6d7b4a936e4ac21b60084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: bfe1e40f941e0a54a88fd649f29f7520
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

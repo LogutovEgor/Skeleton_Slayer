@@ -1,0 +1,505 @@
+fileFormatVersion: 2
+guid: cfd0b882a6f8d5b4ba9c91e60e0274f0
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Skeleton_fire_cast_animation_15
+    21300002: Skeleton_fire_cast_animation_16
+    21300004: Skeleton_fire_cast_animation_1
+    21300006: Skeleton_fire_cast_animation_2
+    21300008: Skeleton_fire_cast_animation_3
+    21300010: Skeleton_fire_cast_animation_4
+    21300012: Skeleton_fire_cast_animation_5
+    21300014: Skeleton_fire_cast_animation_6
+    21300016: Skeleton_fire_cast_animation_12
+    21300018: Skeleton_fire_cast_animation_17
+    21300020: Skeleton_fire_cast_animation_18
+    21300022: Skeleton_fire_cast_animation_19
+    21300024: Skeleton_fire_cast_animation_7
+    21300026: Skeleton_fire_cast_animation_8
+    21300028: Skeleton_fire_cast_animation_9
+    21300030: Skeleton_fire_cast_animation_10
+    21300032: Skeleton_fire_cast_animation_11
+    21300034: Skeleton_fire_cast_animation_13
+    21300036: Skeleton_fire_cast_animation_14
+  externalObjects: {}
+  serializedVersion: 5
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -1
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 0
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 2
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Skeleton_fire_cast_animation_15
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 14
+        width: 21
+        height: 51
+      alignment: 9
+      pivot: {x: 0.53683615, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0fa17b8b52f2ae144934bba14de1ee53
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skeleton_fire_cast_animation_16
+      rect:
+        serializedVersion: 2
+        x: 547
+        y: 14
+        width: 27
+        height: 53
+      alignment: 9
+      pivot: {x: 0.15753174, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1b11558de625144d98c137c9e7366b9
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skeleton_fire_cast_animation_1
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 14
+        width: 22
+        height: 32
+      alignment: 9
+      pivot: {x: 0.28441802, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3392e8b6586b97a4bb6cac0be49b3b35
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skeleton_fire_cast_animation_2
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 14
+        width: 22
+        height: 32
+      alignment: 9
+      pivot: {x: 0.28520826, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 357fa0eea5a2fc643bcb2207c424ef5a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skeleton_fire_cast_animation_3
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 14
+        width: 21
+        height: 32
+      alignment: 9
+      pivot: {x: 0.2858825, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 784e17a8ad7fc2648aa037c25e3b3fe8
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skeleton_fire_cast_animation_4
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 14
+        width: 19
+        height: 32
+      alignment: 9
+      pivot: {x: 0.22551286, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75c2d301e2bc861468921e7b8841f6d2
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skeleton_fire_cast_animation_5
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 14
+        width: 18
+        height: 36
+      alignment: 9
+      pivot: {x: 0.4008433, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28ce2b6cdd5551d409311d13a58058c7
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skeleton_fire_cast_animation_6
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 14
+        width: 21
+        height: 34
+      alignment: 9
+      pivot: {x: 0.5223512, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d10f24a6670764542abe337fb15b79a0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skeleton_fire_cast_animation_12
+      rect:
+        serializedVersion: 2
+        x: 407
+        y: 14
+        width: 32
+        height: 48
+      alignment: 9
+      pivot: {x: 0.531168, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee511b8452ab7db4e84e3474976bb06b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skeleton_fire_cast_animation_17
+      rect:
+        serializedVersion: 2
+        x: 586
+        y: 14
+        width: 21
+        height: 32
+      alignment: 9
+      pivot: {x: 0.34088427, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 381431d5e08569f49b4853c13b12348f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skeleton_fire_cast_animation_18
+      rect:
+        serializedVersion: 2
+        x: 630
+        y: 14
+        width: 21
+        height: 32
+      alignment: 9
+      pivot: {x: 0.28604853, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1fea12d5ad4cd9f4e9dcd638747e86e5
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skeleton_fire_cast_animation_19
+      rect:
+        serializedVersion: 2
+        x: 673
+        y: 14
+        width: 22
+        height: 32
+      alignment: 9
+      pivot: {x: 0.28105858, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 146d0d54a8bccd046a82e976724aef94
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skeleton_fire_cast_animation_7
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 14
+        width: 32
+        height: 33
+      alignment: 9
+      pivot: {x: 0.5369706, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e08808435b040741ac622b061f7fe1b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skeleton_fire_cast_animation_8
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 14
+        width: 32
+        height: 33
+      alignment: 9
+      pivot: {x: 0.5316067, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0fc3a934efacd9c4d9ae797a37d23f9a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skeleton_fire_cast_animation_9
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 14
+        width: 32
+        height: 42
+      alignment: 9
+      pivot: {x: 0.52783966, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80ab7b8a7db863f48aabc13165b9d7ed
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skeleton_fire_cast_animation_10
+      rect:
+        serializedVersion: 2
+        x: 333
+        y: 14
+        width: 32
+        height: 43
+      alignment: 9
+      pivot: {x: 0.5301151, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1df2598165427d47b832ee0b04ec85b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skeleton_fire_cast_animation_11
+      rect:
+        serializedVersion: 2
+        x: 371
+        y: 14
+        width: 32
+        height: 44
+      alignment: 9
+      pivot: {x: 0.531847, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da39339b51f1e3e4398edac1af0d45d9
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skeleton_fire_cast_animation_13
+      rect:
+        serializedVersion: 2
+        x: 442
+        y: 14
+        width: 32
+        height: 50
+      alignment: 9
+      pivot: {x: 0.5378885, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3017d0d35994ee44888d6c0afe4a02a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skeleton_fire_cast_animation_14
+      rect:
+        serializedVersion: 2
+        x: 478
+        y: 14
+        width: 32
+        height: 51
+      alignment: 9
+      pivot: {x: 0.53289986, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cfd9f7b75f801124188b703d3949f845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 33bb6a6849ac2db4b8dd7f265d6b0ca3
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

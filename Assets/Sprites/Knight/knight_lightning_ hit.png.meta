@@ -1,0 +1,379 @@
+fileFormatVersion: 2
+guid: aaef07549ef59c2459d6515105e24cce
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: knight_lightning_ hit_0
+    21300002: knight_lightning_ hit_1
+    21300004: knight_lightning_ hit_2
+    21300006: knight_lightning_ hit_3
+    21300008: knight_lightning_ hit_4
+    21300010: knight_lightning_ hit_5
+    21300012: knight_lightning_ hit_6
+    21300014: knight_lightning_ hit_7
+    21300016: knight_lightning_ hit_8
+    21300018: knight_lightning_ hit_9
+    21300020: knight_lightning_ hit_10
+    21300022: knight_lightning_ hit_11
+    21300024: knight_lightning_ hit_12
+  externalObjects: {}
+  serializedVersion: 5
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -1
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 0
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 2
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: knight_lightning_ hit_0
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 21
+        width: 16
+        height: 34
+      alignment: 9
+      pivot: {x: 0.3808099, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6001d1776b9c7647ad1b91f2e6549e5
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: knight_lightning_ hit_1
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 21
+        width: 18
+        height: 35
+      alignment: 9
+      pivot: {x: 0.45694733, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95b0810ff0588cc4184f68d3857219ba
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: knight_lightning_ hit_2
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 21
+        width: 18
+        height: 34
+      alignment: 9
+      pivot: {x: 0.46468395, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec1d6bc441834ac4393f952028d98f0d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: knight_lightning_ hit_3
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 21
+        width: 18
+        height: 35
+      alignment: 9
+      pivot: {x: 0.449209, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aaf22f0d10b6e3d42ac6dc1d35a046e7
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: knight_lightning_ hit_4
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 21
+        width: 18
+        height: 34
+      alignment: 9
+      pivot: {x: 0.4492103, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41b3538f3b48ae045a959ea471e83475
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: knight_lightning_ hit_5
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 21
+        width: 18
+        height: 35
+      alignment: 9
+      pivot: {x: 0.4569465, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 624b31c38c943cf48b428cf761e57da9
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: knight_lightning_ hit_6
+      rect:
+        serializedVersion: 2
+        x: 237
+        y: 21
+        width: 18
+        height: 34
+      alignment: 9
+      pivot: {x: 0.43373448, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40d4c9fb516bebe4dab43d8159835a47
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: knight_lightning_ hit_7
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 24
+        width: 17
+        height: 36
+      alignment: 9
+      pivot: {x: 0.41701913, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21a463c7d2c3ed84b99f69f6cadeafd4
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: knight_lightning_ hit_8
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 24
+        width: 18
+        height: 37
+      alignment: 9
+      pivot: {x: 0.4477539, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: abc02656a0c85a442aa3e443e526da2a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: knight_lightning_ hit_9
+      rect:
+        serializedVersion: 2
+        x: 372
+        y: 24
+        width: 19
+        height: 35
+      alignment: 9
+      pivot: {x: 0.47800967, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ac0146f836aefd41a7bfa673d444c01
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: knight_lightning_ hit_10
+      rect:
+        serializedVersion: 2
+        x: 407
+        y: 23
+        width: 21
+        height: 35
+      alignment: 9
+      pivot: {x: 0.48673502, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 994f56ec0fc670240915a9b1925515ad
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: knight_lightning_ hit_11
+      rect:
+        serializedVersion: 2
+        x: 451
+        y: 23
+        width: 18
+        height: 34
+      alignment: 9
+      pivot: {x: 0.4492086, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a347c64d1d2a7541b55dba01c3db676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: knight_lightning_ hit_12
+      rect:
+        serializedVersion: 2
+        x: 481
+        y: 22
+        width: 18
+        height: 35
+      alignment: 9
+      pivot: {x: 0.4492086, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 313e62907788ba84190b0d8b019e7db1
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 980808804f16d9349a7d19f8f67e7981
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

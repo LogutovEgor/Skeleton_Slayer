@@ -1,0 +1,1 @@
+keytool -exportcert -rfc -alias key_1 -file upload_certificate.pem -keystore MyKeyStore.jks -storepass E28121999e

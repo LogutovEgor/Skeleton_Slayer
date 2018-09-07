@@ -1,0 +1,337 @@
+fileFormatVersion: 2
+guid: d8567479d2409c44e9c55a910483313b
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Skeleton Healing_0
+    21300002: Skeleton Healing_1
+    21300004: Skeleton Healing_2
+    21300006: Skeleton Healing_3
+    21300008: Skeleton Healing_4
+    21300010: Skeleton Healing_5
+    21300012: Skeleton Healing_6
+    21300014: Skeleton Healing_7
+    21300016: Skeleton Healing_8
+    21300018: Skeleton Healing_9
+    21300020: Skeleton Healing_10
+  externalObjects: {}
+  serializedVersion: 5
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -1
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 0
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 2
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Skeleton Healing_0
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 7
+        width: 22
+        height: 33
+      alignment: 9
+      pivot: {x: 0.27872294, y: 0.044937074}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ce89c85dd8687c47a05bc890ed68e0f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skeleton Healing_1
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 8
+        width: 22
+        height: 32
+      alignment: 9
+      pivot: {x: 0.2805828, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b3cb53c47ffc6c498d7a14ca6aec013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skeleton Healing_2
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 7
+        width: 26
+        height: 33
+      alignment: 9
+      pivot: {x: 0.39291236, y: 0.047535144}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e824726e6350274db7feee96507bb5d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skeleton Healing_3
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 8
+        width: 27
+        height: 32
+      alignment: 9
+      pivot: {x: 0.4080042, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d055aea29c4df194fb3a63ceb99698f4
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skeleton Healing_4
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 8
+        width: 31
+        height: 32
+      alignment: 9
+      pivot: {x: 0.46609005, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f7a6715e8f18fc4986590f4d8e7de7e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skeleton Healing_5
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 8
+        width: 31
+        height: 33
+      alignment: 9
+      pivot: {x: 0.41868788, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2cc62910726c4ed44bb3cce5a42c2794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skeleton Healing_6
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 7
+        width: 30
+        height: 35
+      alignment: 9
+      pivot: {x: 0.40950775, y: 0.038375556}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21dfff50863e33649a19a66d28664fba
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skeleton Healing_7
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 7
+        width: 29
+        height: 33
+      alignment: 9
+      pivot: {x: 0.42797273, y: 0.044468243}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb2fe77e9e129ca45acba167350f2376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skeleton Healing_8
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 7
+        width: 31
+        height: 33
+      alignment: 9
+      pivot: {x: 0.44664642, y: 0.041521188}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ebe1c4b73c5019546ae9d9ec10ccd47b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skeleton Healing_9
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 7
+        width: 34
+        height: 33
+      alignment: 9
+      pivot: {x: 0.47888634, y: 0.043000482}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2038fbb526e25584d827ab9c142d3c3e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Skeleton Healing_10
+      rect:
+        serializedVersion: 2
+        x: 318
+        y: 7
+        width: 37
+        height: 33
+      alignment: 9
+      pivot: {x: 0.49220648, y: 0.04075114}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 450b5bb31107cb246a65db457ce381d9
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 6f2b4cb3cedbace4fb5d4cd68fbd6808
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

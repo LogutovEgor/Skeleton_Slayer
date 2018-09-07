@@ -1,0 +1,379 @@
+fileFormatVersion: 2
+guid: e8e9d5135af1e854c8e33caef8aadb34
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: SkeletonLightningHit_0
+    21300002: SkeletonLightningHit_1
+    21300004: SkeletonLightningHit_2
+    21300006: SkeletonLightningHit_3
+    21300008: SkeletonLightningHit_4
+    21300010: SkeletonLightningHit_5
+    21300012: SkeletonLightningHit_6
+    21300014: SkeletonLightningHit_7
+    21300016: SkeletonLightningHit_8
+    21300018: SkeletonLightningHit_9
+    21300020: SkeletonLightningHit_10
+    21300022: SkeletonLightningHit_11
+    21300024: SkeletonLightningHit_12
+  externalObjects: {}
+  serializedVersion: 5
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -1
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 0
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 2
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: SkeletonLightningHit_0
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 13
+        width: 22
+        height: 32
+      alignment: 9
+      pivot: {x: 0.28871968, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8daeb2fc329e17b428a88f840b56a7a7
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SkeletonLightningHit_1
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 13
+        width: 22
+        height: 32
+      alignment: 9
+      pivot: {x: 0.27750933, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54b50a9aaa42d694a96f22a20dcd5f5a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SkeletonLightningHit_2
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 13
+        width: 22
+        height: 32
+      alignment: 9
+      pivot: {x: 0.27961037, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa770f268c131cc4abfc737ceca2b96c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SkeletonLightningHit_3
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 13
+        width: 22
+        height: 32
+      alignment: 9
+      pivot: {x: 0.27856514, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c61ec85e172a564abbdb5d7e25775d7
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SkeletonLightningHit_4
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 13
+        width: 22
+        height: 32
+      alignment: 9
+      pivot: {x: 0.2375738, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9263a0fc55102ac40a702c3034502f76
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SkeletonLightningHit_5
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 13
+        width: 22
+        height: 32
+      alignment: 9
+      pivot: {x: 0.2775095, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2c809aa89b26c04c826ada63355e98f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SkeletonLightningHit_6
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 13
+        width: 22
+        height: 32
+      alignment: 9
+      pivot: {x: 0.27961037, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb8184128b6066945aff3070f7092d72
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SkeletonLightningHit_7
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 13
+        width: 23
+        height: 32
+      alignment: 9
+      pivot: {x: 0.43698785, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aabdc655bd1718444970bb87dab71fd5
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SkeletonLightningHit_8
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 13
+        width: 26
+        height: 32
+      alignment: 9
+      pivot: {x: 0.5379439, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bdadfbbf6aa786644b51367d928234f3
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SkeletonLightningHit_9
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 13
+        width: 25
+        height: 32
+      alignment: 9
+      pivot: {x: 0.45806152, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93089609e79d64a44bd6830a96b6ebc2
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SkeletonLightningHit_10
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 13
+        width: 24
+        height: 32
+      alignment: 9
+      pivot: {x: 0.25525793, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93b1e1993a679584eb5eb160d5dc6e6d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SkeletonLightningHit_11
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 13
+        width: 23
+        height: 32
+      alignment: 9
+      pivot: {x: 0.27343884, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb849968f118d7048af5b163759ba0a7
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SkeletonLightningHit_12
+      rect:
+        serializedVersion: 2
+        x: 346
+        y: 13
+        width: 22
+        height: 32
+      alignment: 9
+      pivot: {x: 0.27750883, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c11e0fc8a0b36a4a82b99cfa11ba91b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: cf88c4019abe35f42b0301eb87fa1f93
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
